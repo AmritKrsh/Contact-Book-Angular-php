@@ -1,11 +1,9 @@
  <!DOCTYPE html>
 <html>
 <head>
-	<!--<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>-->
-	<script src="js/angular.min.js"></script>
- 	<script  src="js/bootstrap.js"></script>
-
- 	<link rel="Stylesheet" href="css/bootstrap.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>
+ 	<link rel="Stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
  	<link href="https://fonts.googleapis.com/css?family=Cabin+Condensed" rel="stylesheet">
 
 	<title>Address Book</title>
